@@ -1,0 +1,22 @@
+C:\Users\EED-R&I\source\repos\serial_prog\serial_prog\bin\Debug\serial_prog.exe.config
+C:\Users\EED-R&I\source\repos\serial_prog\serial_prog\bin\Debug\serial_prog.exe
+C:\Users\EED-R&I\source\repos\serial_prog\serial_prog\bin\Debug\serial_prog.pdb
+C:\Users\EED-R&I\source\repos\serial_prog\serial_prog\obj\Debug\serial_prog.csproj.AssemblyReference.cache
+C:\Users\EED-R&I\source\repos\serial_prog\serial_prog\obj\Debug\serial_prog.csproj.SuggestedBindingRedirects.cache
+C:\Users\EED-R&I\source\repos\serial_prog\serial_prog\obj\Debug\serial_prog.SerialProg.resources
+C:\Users\EED-R&I\source\repos\serial_prog\serial_prog\obj\Debug\serial_prog.Properties.Resources.resources
+C:\Users\EED-R&I\source\repos\serial_prog\serial_prog\obj\Debug\serial_prog.csproj.GenerateResource.cache
+C:\Users\EED-R&I\source\repos\serial_prog\serial_prog\obj\Debug\serial_prog.csproj.CoreCompileInputs.cache
+C:\Users\EED-R&I\source\repos\serial_prog\serial_prog\obj\Debug\serial_prog.exe
+C:\Users\EED-R&I\source\repos\serial_prog\serial_prog\obj\Debug\serial_prog.pdb
+E:\Embedded Projects\Running\Visual Studio CS\serial_prog\serial_prog\bin\Debug\serial_prog.exe.config
+E:\Embedded Projects\Running\Visual Studio CS\serial_prog\serial_prog\bin\Debug\serial_prog.exe
+E:\Embedded Projects\Running\Visual Studio CS\serial_prog\serial_prog\bin\Debug\serial_prog.pdb
+E:\Embedded Projects\Running\Visual Studio CS\serial_prog\serial_prog\obj\Debug\serial_prog.csproj.AssemblyReference.cache
+E:\Embedded Projects\Running\Visual Studio CS\serial_prog\serial_prog\obj\Debug\serial_prog.csproj.SuggestedBindingRedirects.cache
+E:\Embedded Projects\Running\Visual Studio CS\serial_prog\serial_prog\obj\Debug\serial_prog.SerialProg.resources
+E:\Embedded Projects\Running\Visual Studio CS\serial_prog\serial_prog\obj\Debug\serial_prog.Properties.Resources.resources
+E:\Embedded Projects\Running\Visual Studio CS\serial_prog\serial_prog\obj\Debug\serial_prog.csproj.GenerateResource.cache
+E:\Embedded Projects\Running\Visual Studio CS\serial_prog\serial_prog\obj\Debug\serial_prog.csproj.CoreCompileInputs.cache
+E:\Embedded Projects\Running\Visual Studio CS\serial_prog\serial_prog\obj\Debug\serial_prog.exe
+E:\Embedded Projects\Running\Visual Studio CS\serial_prog\serial_prog\obj\Debug\serial_prog.pdb

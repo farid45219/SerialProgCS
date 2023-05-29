@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73bc8b53-9efb-4d37-a5d0-f41326846962": {
+      "ProjectGuid": "73bc8b53-9efb-4d37-a5d0-f41326846962",
+      "DisplayName": "serial_prog",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
