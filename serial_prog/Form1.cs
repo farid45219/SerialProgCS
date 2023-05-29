@@ -45,5 +45,11 @@ namespace serial_prog
         {
             
         }
+
+        private void btnBrowseFile_MouseClick(object sender, MouseEventArgs e)
+        {
+            opnfiledlgBrowseFile.ShowDialog();
+            
+        }
     }
 }

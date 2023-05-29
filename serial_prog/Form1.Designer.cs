@@ -46,6 +46,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.opnfiledlgBrowseFile = new System.Windows.Forms.OpenFileDialog();
             this.tbctrlProgrammer.SuspendLayout();
             this.tbpgProgrammer.SuspendLayout();
             this.tbpgInfo.SuspendLayout();
@@ -114,6 +115,7 @@
             this.btnBrowseFile.TabIndex = 5;
             this.btnBrowseFile.Text = "Browse File";
             this.btnBrowseFile.UseVisualStyleBackColor = true;
+            this.btnBrowseFile.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btnBrowseFile_MouseClick);
             // 
             // btnSerialView
             // 
@@ -227,6 +229,10 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Developed By-";
             // 
+            // opnfiledlgBrowseFile
+            // 
+            this.opnfiledlgBrowseFile.FileName = "openFileDialog1";
+            // 
             // SerialProg
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -263,6 +269,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.LinkLabel linkLabel2;
         private System.Windows.Forms.LinkLabel linkLabel1;
+        private System.Windows.Forms.OpenFileDialog opnfiledlgBrowseFile;
     }
 }
 
