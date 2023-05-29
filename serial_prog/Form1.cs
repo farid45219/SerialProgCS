@@ -49,7 +49,16 @@ namespace serial_prog
         private void btnBrowseFile_MouseClick(object sender, MouseEventArgs e)
         {
             opnfiledlgBrowseFile.ShowDialog();
-            
+            opnfiledlgBrowseFile.Filter = "hex files (*.hex)|*.hex";
+            string file_name=opnfiledlgBrowseFile.FileName;
+            try
+            {
+                this.rchtboxBrowseFile.Text = file_name;
+            }
+            catch
+            {
+
+            }
         }
     }
 }

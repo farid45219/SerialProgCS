@@ -229,10 +229,6 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Developed By-";
             // 
-            // opnfiledlgBrowseFile
-            // 
-            this.opnfiledlgBrowseFile.FileName = "openFileDialog1";
-            // 
             // SerialProg
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
